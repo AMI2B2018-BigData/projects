@@ -4,3 +4,6 @@
 [submodule "Groupe5"]
 	path = Groupe5
 	url = https://github.com/AMI2B2018-BigData/Groupe5
+[submodule "Groupe1"]
+	path = Groupe1
+	url = https://github.com/AMI2B2018-BigData/Groupe1
